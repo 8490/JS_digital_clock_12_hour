@@ -1,1 +1,3 @@
-# digital_clock_12_hour
+# Digital_Clock_12_hour
+
+## This  is Digital Clock using *javaScript* .
